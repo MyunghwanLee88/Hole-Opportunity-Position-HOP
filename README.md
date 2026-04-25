@@ -34,7 +34,4 @@ We validate HOP through a systematic analysis of IPO outcomes using U.S. public 
 - **Reproducible results** — scripts to replicate all tables and figures in the manuscript
 
 ---
-
-## Repository Structure
-
 ```
