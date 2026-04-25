@@ -14,7 +14,7 @@ This repository provides the official implementation and dataset for the paper:
 
 Opportunities play a central role in explaining innovation, strategic behavior, and the performance of products, individuals, and firms. However, identifying and evaluating such opportunities has become increasingly difficult in environments characterized by fluid boundaries and dense interdependencies.
 
-To address this challenge, we introduce **Hole Opportunity Position (HOP)** — a computational design framework that operationalizes strategic opportunity grounded in **structural hole theory**. HOP integrates text analytics, unsupervised machine learning, and network analysis to derive fine-grained strategic opportunity measures from large-scale digitized data.
+To address this challenge, we introduce **Hole Opportunity Position (HOP)** — a computational design framework that operationalizes strategic opportunity grounded in **structural hole theory**. HOP integrates text analytics, unsupervised machine learning, and network analysis to derive fine-grained strategic opportunity measures from large-scale digitized data. 
 
 The framework classifies entities into three distinct strategic positions:
 
@@ -22,7 +22,7 @@ The framework classifies entities into three distinct strategic positions:
 - 🔵 **Hole-entering** — entities that occupy existing structural holes
 - ⚪ **Non-hole** — entities situated in densely connected regions without brokerage advantage
 
-We validate HOP through a systematic analysis of IPO outcomes using U.S. public firm panel data.
+We validate HOP through a systematic analysis of IPO outcomes using U.S. public firm panel data. This repository includes a subset of the data used in the paper, covering the period from 1997 to 2020.
 
 ---
 
