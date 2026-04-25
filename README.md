@@ -18,9 +18,9 @@ To address this challenge, we introduce **Hole Opportunity Position (HOP)** — 
 
 The framework classifies entities into three distinct strategic positions:
 
-- 🟢 **Hole-opening** — entities that create new structural holes by bridging previously disconnected domains
-- 🔵 **Hole-entering** — entities that occupy existing structural holes
-- ⚪ **Non-hole** — entities situated in densely connected regions without brokerage advantage
+ 🟢 **Hole-opening** — entities that create new structural holes by bridging previously disconnected domains
+ 🔵 **Hole-entering** — entities that occupy existing structural holes
+ ⚪ **Non-hole** — entities situated in densely connected regions without brokerage advantage
 
 We validate HOP through a systematic analysis of IPO outcomes using U.S. public firm panel data.
 
