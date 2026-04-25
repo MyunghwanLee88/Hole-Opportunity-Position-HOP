@@ -31,7 +31,6 @@ We validate HOP through a systematic analysis of IPO outcomes using U.S. public 
 - **End-to-end pipeline** for computing HOP measures from raw textual corpora
 - **Novel algorithm** designed to overcome the computational complexity of large-scale structural hole detection
 - **Curated dataset** of U.S. public firm panel data used in the paper
-- **Reproducible results** — scripts to replicate all tables and figures in the manuscript
 
 ---
 ```
