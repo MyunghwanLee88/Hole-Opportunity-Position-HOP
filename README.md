@@ -33,4 +33,8 @@ We validate HOP through a systematic analysis of IPO outcomes using U.S. public 
 - **Curated dataset** of U.S. public firm panel data used in the paper
 
 ---
+
+## Disclaimer
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). You are free to use, share, and adapt the data for non-commercial purposes, provided appropriate credit is given. This dataset is provided "as is" without any warranties, and the authors assume no liability for any use of the data.
+
 ```
