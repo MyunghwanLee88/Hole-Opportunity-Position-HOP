@@ -32,6 +32,8 @@ We validate HOP through a systematic analysis of IPO outcomes using U.S. public 
 - **Novel algorithm** designed to overcome the computational complexity of large-scale structural hole detection
 - **Curated dataset** of U.S. public firm panel data used in the paper
 
+- The repository link included in the manuscript has been updated. Please use the new link below, as the previous one is no longer (valid.https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/MyunghwanLee88/HOP_Doc2Vec/main/config.json)
+
 ---
 
 ## Disclaimer
